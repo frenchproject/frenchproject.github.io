@@ -19,6 +19,9 @@ img:hover {
   opacity:0.8;
   border: 0px solid; 
 }
+@thumgnail-bg
+  color:#9ebda3;
+}
 div{
 margin:0;
 padding:0;
