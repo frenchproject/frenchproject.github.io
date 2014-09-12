@@ -13,6 +13,12 @@ h1{
 img {
     display: block;
 }
+img:hover { 
+  background: #09f; 
+    background-image: linear-gradient(135deg, #09f, #cc2fdc);
+  opacity:0.8;
+  border: 0px solid; 
+}
 div{
 margin:0;
 padding:0;
