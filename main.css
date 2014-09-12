@@ -13,26 +13,7 @@ h1{
 img {
     display: block;
 }
-#div.hero-unit{
-  top:0;
-  z-index:1;
-  transform-origin:top center;
-  animation: butts 1.6s forwards;
-}
-@keyframes butts {
-    0% {
-        transform: perspective(800px) rotateX(-90deg);
-        opacity: 1;
-    } 
-    40% {
-        transform: perspective(800px) rotateX(30deg);
-        opacity: 1;
-    }
-    70% {
-        transform: perspective(800px) rotateX(-10deg);
-    }
-    100% {
-        transform: perspective(800px) rotateX(0deg);
-        opacity: 1;
-    }
+div.q{
+margin:0;
+padding:0;
 }
