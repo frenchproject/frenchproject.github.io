@@ -33,20 +33,3 @@ padding:0;
   transform-origin:top center;
   animation: image 1.4s forwards;
 }
-@-webkit-keyframe image {
-    0% {
-        transform: perspective(800px) rotateX(-90deg);
-        opacity: 1;
-    } 
-    40% {
-        transform: perspective(800px) rotateX(30deg);
-        opacity: 1;
-    }
-    70% {
-        transform: perspective(800px) rotateX(-10deg);
-    }
-    100% {
-        transform: perspective(800px) rotateX(0deg);
-        opacity: 1;
-    }
-}
