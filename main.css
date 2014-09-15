@@ -26,10 +26,3 @@ div{
 margin:0;
 padding:0;
 }
-#test.CLASS {
-  position:absolute;
-  top:0;
-  z-index:1;
-  transform-origin:top center;
-  animation: image 1.4s forwards;
-}
